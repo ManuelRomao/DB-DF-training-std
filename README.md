@@ -1,2 +1,2 @@
 # DF-dummy-mromao
-for tests
+for tests (partner lessons)
